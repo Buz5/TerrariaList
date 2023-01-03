@@ -230,7 +230,7 @@
     },
     {
       "Name": "burning",
-      "Price": 500.0,
+      "Price": 250.0,
       "ID": 67,
       "Mod": "Manual"
     },
